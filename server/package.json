@@ -1,0 +1,21 @@
+{
+  "name": "input_data",
+  "version": "1.0.0",
+  "description": "It is the backend of input data",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "nodemon index.js"
+  },
+  "author": "Muhammed Anus",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
